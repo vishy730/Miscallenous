@@ -4,6 +4,7 @@ All kinds of sorts and practice exercises
 
 Finding Duplicates in two arrays.
 
+```
 public List<Integer> findDuplicates(m,n)
  {
     m_pointer = 0;
@@ -20,3 +21,4 @@ public List<Integer> findDuplicates(m,n)
               m_pointer++
          
   }
+```
